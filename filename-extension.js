@@ -6,3 +6,5 @@ const file2 = "laravel.php"
 
 console.log(file.split('.').pop())
 console.log(file2.split('.').pop())
+
+
